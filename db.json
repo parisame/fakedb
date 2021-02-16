@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "when nietzsche wept",
-      "author": "Irvin D. Yalom",
+      "author": "Irvin D. Yalom"
     },
     {
       "id": 2,
       "name": "The Brothers Karamazov",
-      "author": "Fyodor Dostoevsky",
+      "author": "Fyodor Dostoevsky"
     },
     {
       "id": 3,
       "name": "The Alchemist",
-      "author": "Paulo Coelho",  
+      "author": "Paulo Coelho" 
     }
    ]
 }
