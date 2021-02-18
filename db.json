@@ -2,7 +2,7 @@
   "books": [
     {
       "id": 1,
-      "name": "when nietzsche wept",
+      "name": "When Nietzsche Wept",
       "author": "Irvin D. Yalom"
     },
     {
@@ -14,6 +14,16 @@
       "id": 3,
       "name": "The Alchemist",
       "author": "Paulo Coelho" 
+    }
+    {
+      "id": 4,
+      "name": "The Death of Ivan Ilyich",
+      "author": "Leo Tolstoy" 
+    }
+     {
+      "id": 5,
+      "name": "Animal Farm",
+      "author": "George Orwell" 
     }
    ]
 }
